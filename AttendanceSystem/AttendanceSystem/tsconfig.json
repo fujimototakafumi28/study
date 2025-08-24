@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./wwwroot/js",
+    "strict": true,
+    "lib": [ "es2015", "dom" ] // ES2015 と DOM を指定
+  },
+  "include": [
+    "wwwroot/js/CanvasSample.ts",
+    "wwwroot/js/customPage.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

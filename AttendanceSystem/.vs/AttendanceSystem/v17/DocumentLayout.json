@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\wwwroot\\js\\canvassample.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\wwwroot\\js\\canvassample.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\attendancesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\attendancesystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\wwwroot\\css\\canvassample.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\wwwroot\\css\\canvassample.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\home\\custompage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\home\\custompage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\wwwroot\\js\\canvassample.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\wwwroot\\js\\canvassample.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\home\\canvassample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\home\\canvassample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\wwwroot\\js\\custompage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\wwwroot\\js\\custompage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\wwwroot\\js\\custompage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\wwwroot\\js\\custompage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\wwwroot\\css\\custompage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\wwwroot\\css\\custompage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\attendancesystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\attendancesystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fujimototakafumi\\node_modules\\@types\\lodash\\common\\lang.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|c:\\users\\fujimototakafumi\\documents\\work\\study\\attendancesystem\\attendancesystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F068115-E72F-42B8-A218-B855D6D16115}|AttendanceSystem\\AttendanceSystem.csproj|solutionrelative:attendancesystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Home\\CustomPage.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\Home\\CustomPage.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Home\\CustomPage.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\Home\\CustomPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T08:24:28.312Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CanvasSample.ts",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\CanvasSample.ts",
+              "RelativeDocumentMoniker": "AttendanceSystem\\wwwroot\\js\\CanvasSample.ts",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\CanvasSample.ts",
+              "RelativeToolTip": "AttendanceSystem\\wwwroot\\js\\CanvasSample.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T05:04:16.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CanvasSample.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Home\\CanvasSample.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\Home\\CanvasSample.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Home\\CanvasSample.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\Home\\CanvasSample.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T04:53:13.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanvasSample.css",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\css\\CanvasSample.css",
+              "RelativeDocumentMoniker": "AttendanceSystem\\wwwroot\\css\\CanvasSample.css",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\css\\CanvasSample.css",
+              "RelativeToolTip": "AttendanceSystem\\wwwroot\\css\\CanvasSample.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-12T04:58:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CanvasSample.js",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\CanvasSample.js",
+              "RelativeDocumentMoniker": "AttendanceSystem\\wwwroot\\js\\CanvasSample.js",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\CanvasSample.js",
+              "RelativeToolTip": "AttendanceSystem\\wwwroot\\js\\CanvasSample.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwD0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-12T09:27:45.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\AttendanceSystem.csproj",
+              "RelativeDocumentMoniker": "AttendanceSystem\\AttendanceSystem.csproj",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\AttendanceSystem.csproj",
+              "RelativeToolTip": "AttendanceSystem\\AttendanceSystem.csproj",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T09:00:14.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T03:52:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T05:23:30.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "customPage.ts",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\customPage.ts",
+              "RelativeDocumentMoniker": "AttendanceSystem\\wwwroot\\js\\customPage.ts",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\customPage.ts",
+              "RelativeToolTip": "AttendanceSystem\\wwwroot\\js\\customPage.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-12T03:37:51.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T07:58:47.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T07:58:39.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "customPage.css",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\css\\customPage.css",
+              "RelativeDocumentMoniker": "AttendanceSystem\\wwwroot\\css\\customPage.css",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\css\\customPage.css",
+              "RelativeToolTip": "AttendanceSystem\\wwwroot\\css\\customPage.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-12T04:56:25.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\tsconfig.json",
+              "RelativeDocumentMoniker": "AttendanceSystem\\tsconfig.json",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\tsconfig.json",
+              "RelativeToolTip": "AttendanceSystem\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T09:21:45.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "customPage.js",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\customPage.js",
+              "RelativeDocumentMoniker": "AttendanceSystem\\wwwroot\\js\\customPage.js",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\customPage.js",
+              "RelativeToolTip": "AttendanceSystem\\wwwroot\\js\\customPage.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-12T09:11:55.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttendanceSystem",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\AttendanceSystem.csproj",
+              "RelativeDocumentMoniker": "AttendanceSystem\\AttendanceSystem.csproj",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\AttendanceSystem.csproj",
+              "RelativeToolTip": "AttendanceSystem\\AttendanceSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T09:19:38.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T05:23:28.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T03:48:43.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AttendanceSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T03:48:41.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AttendanceSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\appsettings.json",
+              "RelativeToolTip": "AttendanceSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T08:58:40.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AttendanceSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\appsettings.Development.json",
+              "RelativeToolTip": "AttendanceSystem\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T09:15:00.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AttendanceSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:47:51.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AttendanceSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AttendanceSystem\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-12T05:21:45.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AttendanceSystem\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AttendanceSystem\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-12T05:21:52.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Program.cs",
+              "RelativeToolTip": "AttendanceSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:47:40.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "lang.d.ts",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\node_modules\\@types\\lodash\\common\\lang.d.ts",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\node_modules\\@types\\lodash\\common\\lang.d.ts",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\node_modules\\@types\\lodash\\common\\lang.d.ts",
+              "RelativeToolTip": "..\\..\\..\\..\\node_modules\\@types\\lodash\\common\\lang.d.ts",
+              "ViewState": "AQIAADoDAAAAAAAAAAAmwD8CAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-11T08:53:57.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AttendanceSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AttendanceSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:54:41.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

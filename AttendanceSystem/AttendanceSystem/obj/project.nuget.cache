@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CIcnh4neu86+gjfHeOVAiuW9OAQdRRaQ9jTV3kInhmpyiC+tDl+A/rVhNvKAKgGnljWPwdezakuHE/mkfUy7Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fujimototakafumi\\Documents\\work\\study\\AttendanceSystem\\AttendanceSystem\\AttendanceSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fujimototakafumi\\.nuget\\packages\\microsoft.typescript.msbuild\\5.9.2\\microsoft.typescript.msbuild.5.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

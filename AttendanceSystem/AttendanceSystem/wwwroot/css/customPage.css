@@ -1,0 +1,50 @@
+﻿#content {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+#actionButton {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+    #actionButton:hover {
+        background-color: #0056b3;
+    }
+
+.wall-box {
+    width: 140px;
+    height: 100px;
+    background: #066a06; /* 緑 */
+    border: 3px solid #0b0b0b;
+    margin: 0 20px;
+    display: inline-block;
+}
+
+/* ツールチップ */
+#image-tooltip {
+    background: rgba(255,255,255,0.98);
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 6px;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    z-index: 2000;
+}
+#image-tooltip .tooltip-image {
+    display: block;
+    max-width: 200px;
+    height: auto;
+    border-radius: 2px;
+}
+#image-tooltip .tooltip-caption {
+    font-size: 12px;
+    color: #222;
+    margin-top: 4px;
+    text-align: center;
+}
